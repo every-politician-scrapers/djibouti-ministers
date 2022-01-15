@@ -1,0 +1,792 @@
+{
+  "title": "Assemblée nationale (Djibouti)",
+  "pageID": 6556690,
+  "categories": [
+    "Politique à Djibouti",
+    "Parlement monocaméral"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "L'Assemblée nationale (en الجمعية الوطنية romanisé : aljameiat alwatania) est le parlement monocaméral de la république de Djibouti, dépositaire du pouvoir législatif.",
+              "links": [
+                {
+                  "text": "romanisé",
+                  "type": "internal",
+                  "page": "romanisation de l'arabe"
+                },
+                {
+                  "text": "parlement",
+                  "type": "internal",
+                  "page": "parlement"
+                },
+                {
+                  "text": "monocaméral",
+                  "type": "internal",
+                  "page": "Monocamérisme"
+                },
+                {
+                  "text": "république de Djibouti",
+                  "type": "internal",
+                  "page": "république de Djibouti"
+                },
+                {
+                  "text": "pouvoir législatif",
+                  "type": "internal",
+                  "page": "pouvoir législatif"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "'Assemblée nationale"
+                ],
+                "italic": [
+                  "aljameiat alwatania"
+                ]
+              }
+            },
+            {
+              "text": "Son siège se trouve dans la ville de Djibouti.",
+              "links": [
+                {
+                  "text": "ville de Djibouti",
+                  "type": "internal",
+                  "page": "Djibouti (ville)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Assemblée nationale"
+          ],
+          "template": "voir internationalisation"
+        },
+        {
+          "template": "ar"
+        },
+        {
+          "list": [
+            "législature"
+          ],
+          "template": "8e"
+        },
+        {
+          "list": [
+            "15",
+            "mars",
+            "2018"
+          ],
+          "template": "date-"
+        },
+        {
+          "template": "légende/début"
+        },
+        {
+          "list": [
+            "#32CD32",
+            "UMP (57)"
+          ],
+          "template": "légende"
+        },
+        {
+          "template": "légende/fin"
+        },
+        {
+          "template": "légende/début"
+        },
+        {
+          "langue": "en",
+          "trad": "Djibouti Union for Democracy and Justice",
+          "fr": "Union pour la démocratie et la justice",
+          "texte": "UDJ",
+          "template": "lien"
+        },
+        {
+          "langue": "en",
+          "trad": "Djibouti Party for Development",
+          "fr": "Parti djiboutien pour le développement",
+          "texte": "PDD",
+          "template": "lien"
+        },
+        {
+          "list": [
+            "#FFA07A",
+            "- (7)"
+          ],
+          "template": "légende"
+        },
+        {
+          "template": "légende/fin"
+        },
+        {
+          "template": "légende/début"
+        },
+        {
+          "list": [
+            "#87CEEB",
+            "CDU (1)"
+          ],
+          "template": "légende"
+        },
+        {
+          "template": "légende/fin"
+        }
+      ],
+      "infoboxes": [
+        {
+          "nom": {
+            "text": "Assemblée nationale"
+          },
+          "nom_du_parlement": {
+            "text": "aljameiat alwatania"
+          },
+          "nom_transcription": {
+            "text": "الجمعية الوطنية"
+          },
+          "création": {
+            "text": "1977",
+            "number": 1977
+          },
+          "lieu": {
+            "text": "Djibouti (ville)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djibouti (ville)"
+              }
+            ]
+          },
+          "blason": {
+            "text": "National Assembly Djibouti.svg"
+          },
+          "légende_blason": {
+            "text": "Emblème de l'Assemblée nationale."
+          },
+          "upright": {
+            "text": "0.5",
+            "number": 0.5
+          },
+          "type_chambre": {
+            "text": "Monocaméral",
+            "links": [
+              {
+                "text": "Monocaméral",
+                "type": "internal",
+                "page": "Monocamérisme"
+              }
+            ]
+          },
+          "durée": {
+            "text": "5 ans"
+          },
+          "leader1_type": {
+            "text": "Président"
+          },
+          "leader1": {
+            "text": "Mohamed Ali Houmed"
+          },
+          "parti1": {
+            "text": "UMP",
+            "links": [
+              {
+                "text": "UMP",
+                "type": "internal",
+                "page": "Union pour la majorité présidentielle (Djibouti)"
+              }
+            ]
+          },
+          "membres": {
+            "text": "65 députés"
+          },
+          "structure1": {
+            "text": "Djiboutian parliamentary election, 2018.svg"
+          },
+          "groupe_politique1": {
+            "text": "Gouvernement (57)\n\n\n\nOpposition (7)\n\n\n\nNon-Aligné (1)",
+            "links": [
+              {
+                "text": "Gouvernement",
+                "type": "internal",
+                "page": "Gouvernement Abdoulkader Kamil Mohamed"
+              },
+              {
+                "text": "Opposition",
+                "type": "internal",
+                "page": "Opposition parlementaire"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Gouvernement (57)",
+                "Opposition (7)",
+                "Non-Aligné (1)"
+              ]
+            }
+          },
+          "système_de_vote1": {
+            "text": "Scrutin proportionnel plurinominal dans 5 circonscription électorale",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Scrutin proportionnel plurinominal"
+              },
+              {
+                "text": "circonscription électorale",
+                "type": "internal",
+                "page": "circonscription électorale"
+              }
+            ]
+          },
+          "dernière_élection1": {
+            "text": "23 février 2018",
+            "links": [
+              {
+                "text": "23 février 2018",
+                "type": "internal",
+                "page": "Élections législatives djiboutiennes de 2018"
+              }
+            ]
+          },
+          "lieu_de_réunion": {
+            "text": "Bâtiment de l'Assemblée nationale"
+          },
+          "session_room": {
+            "text": "National Assembly of Djibouti.jpg"
+          },
+          "site_web": {
+            "text": "assemblee-nationale.dj"
+          },
+          "voir_aussi": {
+            "text": "Politique à Djibouti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Politique à Djibouti"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Présentation",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "L'Assemblée nationale est composée de 65 députés élus pour cinq ans au scrutin proportionnel de liste dans cinq circonscriptions plurinominales de 3 à 35 sièges en fonction de leur population.",
+              "links": [
+                {
+                  "text": "scrutin proportionnel",
+                  "type": "internal",
+                  "page": "scrutin proportionnel"
+                },
+                {
+                  "text": "circonscriptions",
+                  "type": "internal",
+                  "page": "circonscription électorale"
+                }
+              ]
+            },
+            {
+              "text": "Soit Djibouti-Ville, 35 députés ; Tadjourah, 6 députés ; Ali-Sabieh, 6 députés ; Arta, 3 députés ; Obock, 4 députés et Dikhil, 11 députés."
+            },
+            {
+              "text": "Depuis le, un quart des sièges est réservé aux femmes, soit seize députées."
+            },
+            {
+              "text": "Auparavant, ce quota était d'un dixième."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bien que le scrutin soit de nature proportionnelle, une très forte prime majoritaire de 80 % des sièges attribuée à la liste arrivée en tête le rend à finalité majoritaire.",
+              "formatting": {
+                "italic": [
+                  "de nature proportionnelle",
+                  "à finalité majoritaire"
+                ]
+              }
+            },
+            {
+              "text": "Les 20 % de sièges restants à pourvoir dans les circonscriptions sont répartis entre les listes suivantes ayant franchi un seuil électoral de 10 %.",
+              "links": [
+                {
+                  "text": "seuil électoral",
+                  "type": "internal",
+                  "page": "seuil électoral"
+                }
+              ]
+            },
+            {
+              "text": "Si aucune liste n'a franchit ce seuil, la liste arrivée en tête remporte la totalité des sièges de la circonscription."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ce mode de scrutin, institué à la suite de la modification en 2012 de l'article 33 de la loi électorale, a été utilisé pour la première fois lors des élections précédentes en 2013."
+            },
+            {
+              "text": "Auparavant, la liste arrivée en tête recevait l'intégralité des sièges de la circonscription."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Les députés jouissent de l'immunité parlementaire."
+            },
+            {
+              "text": "Tous les citoyens sont éligibles sans distinction de sexe, à l'exception des militaires, des policiers et des hauts responsables de l'administration."
+            },
+            {
+              "text": "Ils sont rééligibles sans limite."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "L'Assemblée tient deux sessions annuelles, plus d'éventuelles sessions extraordinaires."
+            },
+            {
+              "text": "Elle dispose de l'initiative des lois, conjointement avec le président de la République."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "11 janvier 2018"
+          ],
+          "template": "date-"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Composition",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "L'Assemblée élue en 2008 compte neuf femmes, soit 13,8 % des députés."
+            },
+            {
+              "text": "Cinq partis politiques y sont représentés, regroupés sous l'étiquette de l'Union pour la majorité présidentielle.",
+              "links": [
+                {
+                  "text": "Union pour la majorité présidentielle",
+                  "type": "internal",
+                  "page": "Union pour la majorité présidentielle (Djibouti)"
+                }
+              ]
+            },
+            {
+              "text": "Le Rassemblement populaire pour le progrès dispose de 43 sièges et le Front pour la restauration de l’unité et la démocratie en a 13.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rassemblement populaire pour le progrès"
+                },
+                {
+                  "type": "internal",
+                  "page": "Front pour la restauration de l’unité et la démocratie"
+                }
+              ]
+            },
+            {
+              "text": "Le reste est réparti entre le PSD (2 siège), le Parti national démocratique (2 sièges) et l'UPR (1 siège).",
+              "links": [
+                {
+                  "text": "Parti national démocratique",
+                  "type": "internal",
+                  "page": "Parti national démocratique (Djibouti)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Historique",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "La première Assemblée du territoire, alors colonie française, a été de 1946 à 1957 le Conseil représentatif."
+            },
+            {
+              "text": "La loi-cadre de 1956 a institué une Assemblée Territoriale, quia été remplacée en 1967 par la Chambre des Députés, restée en fonction après l'indépendance en 1977.",
+              "links": [
+                {
+                  "text": "loi-cadre",
+                  "type": "internal",
+                  "page": "Loi-cadre Defferre"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Liste des présidents",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Période": {
+              "text": "Assemblée du territoire",
+              "formatting": {
+                "bold": [
+                  "Assemblée du territoire"
+                ]
+              }
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1946-1950"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "Conseil représentatif",
+              "formatting": {
+                "bold": [
+                  "Conseil représentatif"
+                ]
+              }
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1950-1955"
+            },
+            "Président": {
+              "text": "Albert Sahatdjian"
+            }
+          },
+          {
+            "Période": {
+              "text": "1955-1957"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "Assemblée territoriale",
+              "formatting": {
+                "bold": [
+                  "Assemblée territoriale"
+                ]
+              }
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1957-1958"
+            },
+            "Président": {
+              "text": "Auguste Bats"
+            }
+          },
+          {
+            "Période": {
+              "text": "1958-1963"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1963-1968"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "Chambre des députés",
+              "formatting": {
+                "bold": [
+                  "Chambre des députés"
+                ]
+              }
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1968-1973"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1973-1977"
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "Assemblée nationale",
+              "formatting": {
+                "bold": [
+                  "Assemblée nationale"
+                ]
+              }
+            },
+            "Président": {
+              "text": ""
+            }
+          },
+          {
+            "Période": {
+              "text": "1977-1982"
+            },
+            "Président": {
+              "text": "Saad Warsama",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saad Warsama"
+                }
+              ]
+            }
+          },
+          {
+            "Période": {
+              "text": "1982-1987"
+            },
+            "Président": {
+              "text": "Abdoulkader W. Askar",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdoulkader W. Askar"
+                }
+              ]
+            }
+          },
+          {
+            "Période": {
+              "text": "1987-1992"
+            },
+            "Président": {
+              "text": "Abdoulkader W. Askar"
+            }
+          },
+          {
+            "Période": {
+              "text": "1992-1997"
+            },
+            "Président": {
+              "text": "Ougas Osman Aden"
+            }
+          },
+          {
+            "Période": {
+              "text": "1997-2003"
+            },
+            "Président": {
+              "text": "Moustaphe Ibrahim"
+            }
+          },
+          {
+            "Période": {
+              "text": "2003-2008"
+            },
+            "Président": {
+              "text": "Souber Ibrahim",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Souber Ibrahim"
+                }
+              ]
+            }
+          },
+          {
+            "Période": {
+              "text": "2008-2013"
+            },
+            "Président": {
+              "text": "Ainan Ibrahim"
+            }
+          },
+          {
+            "Période": {
+              "text": "2013-2015"
+            },
+            "Président": {
+              "text": "Moussa Ibrahim"
+            }
+          },
+          {
+            "Période": {
+              "text": "2015-"
+            },
+            "Président": {
+              "text": "Mohamed Ali Houmed"
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Notes et références",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "references"
+        }
+      ]
+    },
+    {
+      "title": "Voir aussi",
+      "depth": 0
+    },
+    {
+      "title": "Articles connexes",
+      "depth": 1,
+      "templates": [
+        {
+          "taille": "30",
+          "list": [
+            "* Politique à Djibouti\n* Elections à Djibouti\n* Liste de partis politiques de Djibouti\n* Constitution de Djibouti\n* Monocamérisme\n* Liste des parlements actuels"
+          ],
+          "template": "colonne"
+        }
+      ]
+    },
+    {
+      "title": "Liens externes",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "bases"
+        },
+        {
+          "template": "autorité"
+        },
+        {
+          "template": "dictionnaires"
+        },
+        {
+          "list": [
+            "http://www.assemblee-nationale.dj/"
+          ],
+          "template": "site officiel"
+        },
+        {
+          "commons": "Category:Politics of Djibouti",
+          "template": "autres projets"
+        },
+        {
+          "template": "palette parlements d'afrique"
+        },
+        {
+          "list": [
+            "politique",
+            "Djibouti"
+          ],
+          "template": "portail"
+        }
+      ]
+    }
+  ]
+}

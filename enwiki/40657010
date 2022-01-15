@@ -1,0 +1,384 @@
+{
+  "title": "Ministries of Djibouti",
+  "pageID": 40657010,
+  "categories": [
+    "Politics of Djibouti",
+    "Government of Djibouti"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Ministries of Djibouti are headed by the Cabinet.",
+              "links": [
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet (government)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ministries of Djibouti"
+                ]
+              }
+            },
+            {
+              "text": "It runs the day-to-day operations of the Government of Djibouti.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djibouti"
+                }
+              ]
+            },
+            {
+              "text": "The Council of Ministers is in turn appointed by the President, the actual head of government, on the proposal of the Prime Minister, who serves as its most senior minister.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "List of Presidents of Djibouti"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "List of Prime Ministers of Djibouti"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tables": [
+        [
+          {
+            "Ministry": {
+              "text": "Ministry of Agriculture, Livestock, & Fisheries",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Agriculture, Livestock, & Fisheries"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Agriculture, Livestock, & Fisheries"
+            },
+            "Incumbent": {
+              "text": "Mohamed Ahmed AWALEH"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Communication & Culture",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Communication & Culture"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Communication & Culture"
+            },
+            "Incumbent": {
+              "text": "Ali Hassan BAHDON"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Defense",
+              "links": [
+                {
+                  "text": "Ministry of Defense",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Djibouti)"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Defense"
+            },
+            "Incumbent": {
+              "text": "Hassan Darar HOUFFANEH"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Economy, Finance, & Planning",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Economy, Finance, & Planning"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Economy, Finance, & Planning"
+            },
+            "Incumbent": {
+              "text": "Ilyas Moussa DAWALEH"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Education & Professional Training",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Education & Professional Training"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Education & Professional Training"
+            },
+            "Incumbent": {
+              "text": "Djama Elmi OKIEH"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Energy & Water",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Energy & Water"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Energy & Water"
+            },
+            "Incumbent": {
+              "text": "Ali YACOUB"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Foreign Affairs & Intl. Cooperation",
+              "links": [
+                {
+                  "text": "Ministry of Foreign Affairs & Intl. Cooperation",
+                  "type": "internal",
+                  "page": "Foreign relations of Djibouti"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Foreign Affairs & Intl. Cooperation"
+            },
+            "Incumbent": {
+              "text": "Mahamoud Ali YOUSSOUF"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Habitat, Urban Planning, Environment, & Town Planning",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Habitat, Urban Planning, Environment, & Town Planning"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Habitat, Urban Planning, Environment, & Town Planning"
+            },
+            "Incumbent": {
+              "text": "Mohamed Moussa Ibrahim BALALA"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Health",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Health"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Health"
+            },
+            "Incumbent": {
+              "text": "Kassim Issack OSMAN"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Infrastructure & Transport",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Infrastructure & Transport"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Infrastructure & Transport"
+            },
+            "Incumbent": {
+              "text": "Moussa Ahmed HASSAN"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Interior",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Interior"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Interior"
+            },
+            "Incumbent": {
+              "text": "Hassan Omar Mohamed BOURHAN"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Justice & Penal Affairs",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Justice & Penal Affairs"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Justice & Penal Affairs"
+            },
+            "Incumbent": {
+              "text": "Ali Farah ASSOWEH"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Labor",
+              "links": [
+                {
+                  "text": "Ministry of Labor",
+                  "type": "internal",
+                  "page": "Ministry of Labor (Djibouti)"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Labor"
+            },
+            "Incumbent": {
+              "text": "Adbi Houssein AHMED"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of Muslim Affairs & Charitable Assets",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Muslim Affairs & Charitable Assets"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of Muslim Affairs & Charitable Assets"
+            },
+            "Incumbent": {
+              "text": "Aden Ali ADEN"
+            }
+          },
+          {
+            "Ministry": {
+              "text": "Ministry of the Promotion of Women & Family Welfare & Social Affairs",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of the Promotion of Women & Family Welfare & Social Affairs"
+                }
+              ]
+            },
+            "Title of Minister": {
+              "text": "Minister of the Promotion of Women & Family Welfare & Social Affairs"
+            },
+            "Incumbent": {
+              "text": "Hasna Barkat DAOUD"
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "template": "politics of djibouti"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Chiefs of State and Cabinet Members of Foreign Governments",
+          "url": "https://www.cia.gov/library/publications/world-leaders-1/DJ.html",
+          "publisher": "CIA",
+          "accessdate": "2 October 2013",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "title": "Composition du gouvernement de la République de Djibouti",
+          "url": "http://www.diplomatie.gouv.fr/fr/pays-zones-geo/djibouti/presentation-de-djibouti/article/composition-du-gouvernement-1731",
+          "publisher": "Ministère des Affaires étrangères, France",
+          "accessdate": "2 October 2013",
+          "template": "citation",
+          "type": "cite web"
+        },
+        {
+          "title": "Ministères de Djibouti",
+          "url": "http://www.africanbib.biz/fr/countries/country-profile/?tx_abibcountries_country%5bcountry%5d=Djibouti&tx_abibcountries_country%5bmenu%5d=4&tx_abibcountries_country%5baction%5d=show&tx_abibcountries_country%5bcontroller%5b=Country&cHash=a1158a674a2bb540922eca91a1a41d25",
+          "publisher": "African Business Information Bank",
+          "accessdate": "2 October 2013",
+          "template": "citation",
+          "type": "cite web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Chiefs of State and Cabinet Members of Foreign Governments",
+            "links": [
+              {
+                "text": "Chiefs of State and Cabinet Members of Foreign Governments",
+                "type": "external",
+                "site": "https://www.cia.gov/library/publications/world-leaders-1/DJ.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
