@@ -1,0 +1,404 @@
+{
+  "title": "Central Bank of Djibouti",
+  "pageID": 8515624,
+  "categories": [
+    "Banks of Djibouti",
+    "Economy of Djibouti",
+    "Central banks",
+    "1979 establishments in Djibouti",
+    "Banks established in 1979"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The Central Bank of Djibouti (Banque Centrale de Djibouti) is the monetary authority of Djibouti.",
+              "links": [
+                {
+                  "text": "monetary authority",
+                  "type": "internal",
+                  "page": "monetary authority"
+                },
+                {
+                  "type": "internal",
+                  "page": "Djibouti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Central Bank of Djibouti"
+                ]
+              }
+            },
+            {
+              "text": "It is responsible for managing the country's currency, the Djiboutian franc, as well as the national foreign exchange position and accounting.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Djiboutian franc"
+                },
+                {
+                  "text": "foreign exchange",
+                  "type": "internal",
+                  "page": "Foreign exchange market"
+                },
+                {
+                  "text": "accounting",
+                  "type": "internal",
+                  "page": "accounting"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Monetary Authority of Djibouti",
+          "template": "short description"
+        },
+        {
+          "display": "title",
+          "template": "coord",
+          "lat": 11.59611,
+          "lon": 43.14556
+        },
+        {
+          "list": [
+            "http://www.banque-centrale.dj"
+          ],
+          "template": "official website"
+        }
+      ],
+      "infoboxes": [
+        {
+          "headquarters": {
+            "text": "Djibouti 🇩🇯",
+            "links": [
+              {
+                "text": "Djibouti",
+                "type": "internal",
+                "page": "Djibouti (city)"
+              },
+              {
+                "text": "🇩🇯",
+                "type": "internal",
+                "page": "djibouti"
+              }
+            ]
+          },
+          "bank_name": {
+            "text": "Central Bank of Djibouti"
+          },
+          "bank_name_in_local": {
+            "text": "البنك المركزي الجيبوتي"
+          },
+          "image_1": {
+            "text": "Banque Centrale de Djibouti LOGO.png"
+          },
+          "image_width_1": {
+            "text": "260",
+            "number": 260
+          },
+          "established": {
+            "text": "1979",
+            "number": 1979
+          },
+          "ownership": {
+            "text": "100% state ownership",
+            "links": [
+              {
+                "text": "state ownership",
+                "type": "internal",
+                "page": "state ownership"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ahmed Osman Ali"
+          },
+          "leader_title": {
+            "text": "Governor"
+          },
+          "bank_of": {
+            "text": "Djibouti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djibouti"
+              }
+            ]
+          },
+          "currency_iso": {
+            "text": "DJF",
+            "links": [
+              {
+                "type": "internal",
+                "page": "DJF"
+              }
+            ]
+          },
+          "currency": {
+            "text": "Djiboutian franc",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djiboutian franc"
+              }
+            ]
+          },
+          "reserves": {
+            "text": "350 million USD"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Duties",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Objectives of the Central Bank of Djibouti include:"
+            }
+          ]
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "The bank is responsible to the government of Djibouti.",
+              "links": [
+                {
+                  "text": "government of Djibouti",
+                  "type": "internal",
+                  "page": "government of Djibouti"
+                }
+              ]
+            },
+            {
+              "text": "It was established by the decree 79030 of 18 April 1979."
+            }
+          ]
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "To issue and redeem notes and coins"
+          },
+          {
+            "text": "To supervise, regulate and inspect any financial institution which operates in and from within Djibouti"
+          },
+          {
+            "text": "To promote the financial stability and soundness of financial institutions"
+          },
+          {
+            "text": "To supervise, regulate or approve the issue of financial instruments by financial institutions or by residents"
+          },
+          {
+            "text": "To assist with the detection and prevention of financial crime"
+          },
+          {
+            "text": "To foster close relations between financial institutions themselves and between the financial institutions and the Government"
+          },
+          {
+            "text": "To manage exchange control and regulate transactions in foreign currency or gold on behalf of the Government"
+          },
+          {
+            "text": "To advise and assist the Government and public bodies on banking and other financial and monetary matters"
+          },
+          {
+            "text": "To perform such functions as may be necessary to fulfill the said objects."
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.banque-centrale.dj/rubriques/13",
+          "title": "Banque Centrale de Djibouti",
+          "website": "www.banque-centrale.dj",
+          "access-date": "2016-09-10",
+          "archive-url": "https://web.archive.org/web/20160915083803/http://www.banque-centrale.dj/rubriques/13",
+          "archive-date": "2016-09-15",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Governors",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Abdi Mohamed Luc Aden, 1979-1991",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abdi Mohamed Luc Aden"
+              }
+            ]
+          },
+          {
+            "text": "Djama Mahamoud Haid, 1991-2013",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djama Mahamoud Haid"
+              }
+            ]
+          },
+          {
+            "text": "Ahmed Osman Ali, 2013-",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ahmed Osman Ali"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://babel.hathitrust.org/cgi/pt?id=uc1.c110545539",
+          "title": "Chiefs of State and Cabinet members of foreign governments / National Foreign Assessment Center. Sept 1991",
+          "year": "2003",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Banks"
+          ],
+          "template": "portal"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Central banks and currencies of Africa",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Central banks and currencies of Africa"
+              }
+            ]
+          },
+          {
+            "text": "Djiboutian franc, the unit of currency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djiboutian franc"
+              }
+            ]
+          },
+          {
+            "text": "Economy of Djibouti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economy of Djibouti"
+              }
+            ]
+          },
+          {
+            "text": "List of central banks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of central banks"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "fr"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "central banks"
+        },
+        {
+          "template": "africa-bank-stub"
+        },
+        {
+          "template": "djibouti-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official site of Banque Centrale de Djibouti",
+            "links": [
+              {
+                "text": "Official site of Banque Centrale de Djibouti",
+                "type": "external",
+                "site": "http://www.banque-centrale.dj/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

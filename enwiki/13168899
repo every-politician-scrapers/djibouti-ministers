@@ -1,0 +1,143 @@
+{
+  "title": "Banque centrale de Djibouti",
+  "pageID": 13168899,
+  "categories": [
+    "Banque centrale",
+    "Économie à Djibouti"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "La Banque centrale de Djibouti (en البنك المركزي الجيبوتي) est la banque centrale de la république de Djibouti.",
+              "links": [
+                {
+                  "text": "banque centrale",
+                  "type": "internal",
+                  "page": "banque centrale"
+                },
+                {
+                  "text": "république de Djibouti",
+                  "type": "internal",
+                  "page": "république de Djibouti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Banque centrale de Djibouti"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Djibouti"
+          ],
+          "template": "ébauche"
+        },
+        {
+          "template": "ar"
+        },
+        {
+          "template": "djibouti"
+        },
+        {
+          "template": "djibouti"
+        }
+      ],
+      "infoboxes": [
+        {
+          "nom": {
+            "text": "Banque centrale de Djibouti"
+          },
+          "nom_local": {
+            "text": "البنك المركزي الجيبوتي"
+          },
+          "logo": {
+            "text": "Banque Centrale de Djibouti LOGO.png"
+          },
+          "siège": {
+            "text": "Djibouti",
+            "links": [
+              {
+                "text": "Djibouti",
+                "type": "internal",
+                "page": "Djibouti (ville)"
+              }
+            ]
+          },
+          "gouverneur": {
+            "text": "Ahmed Osman Ali"
+          },
+          "devise": {
+            "text": "franc Djibouti",
+            "links": [
+              {
+                "text": "franc Djibouti",
+                "type": "internal",
+                "page": "franc Djibouti"
+              }
+            ]
+          },
+          "devise_iso": {
+            "text": "DJF"
+          },
+          "web": {
+            "text": "https://www.banque-centrale.dj/"
+          },
+          "géolocalisation": {
+            "text": "Djibouti"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Notes et références",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "références"
+        }
+      ]
+    },
+    {
+      "title": "Liens externes",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "fr, ar",
+            "https://www.banque-centrale.dj/"
+          ],
+          "template": "site officiel"
+        },
+        {
+          "list": [
+            "Banque centrale"
+          ],
+          "template": "palette"
+        },
+        {
+          "list": [
+            "Finance",
+            "Économie",
+            "Djibouti"
+          ],
+          "template": "portail"
+        }
+      ]
+    }
+  ]
+}

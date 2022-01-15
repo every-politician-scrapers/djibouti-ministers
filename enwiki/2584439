@@ -1,0 +1,567 @@
+{
+  "title": "National Assembly (Djibouti)",
+  "pageID": 2584439,
+  "categories": [
+    "Politics of Djibouti",
+    "National legislatures",
+    "Unicameral legislatures",
+    "1977 establishments in Djibouti"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The National Assembly, formerly known as the Chamber of Deputies, is the unicameral legislative branch of the government of Djibouti.",
+              "links": [
+                {
+                  "text": "unicameral",
+                  "type": "internal",
+                  "page": "Unicameralism"
+                },
+                {
+                  "text": "legislative branch",
+                  "type": "internal",
+                  "page": "Legislature"
+                },
+                {
+                  "type": "internal",
+                  "page": "Djibouti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "National Assembly",
+                  "Chamber of Deputies"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "#32CD32"
+          ],
+          "border": "darkgray",
+          "template": "color box"
+        },
+        {
+          "list": [
+            "#FFA07A"
+          ],
+          "border": "darkgray",
+          "template": "color box"
+        },
+        {
+          "list": [
+            "#87CEEB"
+          ],
+          "border": "darkgray",
+          "template": "color box"
+        },
+        {
+          "template": "politics of djibouti"
+        },
+        {
+          "display": "title",
+          "template": "coord",
+          "lat": 11.59592,
+          "lon": 43.14861
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "National Assembly"
+          },
+          "native_name": {
+            "text": "Assemblée nationale الجمعية الوطنية"
+          },
+          "legislature": {
+            "text": "8th National Assembly"
+          },
+          "coa_pic": {
+            "text": "National Assembly Djibouti.svg"
+          },
+          "coa_res": {
+            "text": "190px"
+          },
+          "session_room": {
+            "text": "DjiboutiNationalAssembly.JPG"
+          },
+          "house_type": {
+            "text": "Unicameral"
+          },
+          "leader1_type": {
+            "text": "President of the Assembly"
+          },
+          "leader1": {
+            "text": "Mohamed Ali Houmed",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mohamed Ali Houmed"
+              }
+            ]
+          },
+          "party1": {
+            "text": "UMP",
+            "links": [
+              {
+                "text": "UMP",
+                "type": "internal",
+                "page": "Union for the Presidential Majority"
+              }
+            ]
+          },
+          "members": {
+            "text": "65",
+            "number": 65
+          },
+          "foundation": {
+            "text": "1977",
+            "number": 1977
+          },
+          "structure1": {
+            "text": "Djiboutian parliamentary election, 2018.svg"
+          },
+          "structure1_res": {
+            "text": "250px"
+          },
+          "political_groups1": {
+            "text": "Union for the Presidential Majority (57)\n* RPP\n* FRUD\n* PND\n* PSD\n* UPR\n UDJ–PDD (7)\n CDU (1)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Union for the Presidential Majority"
+              },
+              {
+                "text": "RPP",
+                "type": "internal",
+                "page": "People's Rally for Progress"
+              },
+              {
+                "text": "FRUD",
+                "type": "internal",
+                "page": "Front for the Restoration of Unity and Democracy"
+              },
+              {
+                "text": "PND",
+                "type": "internal",
+                "page": "National Democratic Party (Djibouti)"
+              },
+              {
+                "text": "PSD",
+                "type": "internal",
+                "page": "Social Democratic People's Party (Djibouti)"
+              },
+              {
+                "text": "UPR",
+                "type": "internal",
+                "page": "Union of Reform Partisans"
+              },
+              {
+                "text": "UDJ",
+                "type": "internal",
+                "page": "Djibouti Union for Democracy and Justice"
+              },
+              {
+                "text": "PDD",
+                "type": "internal",
+                "page": "Djibouti Party for Development"
+              },
+              {
+                "text": "CDU",
+                "type": "internal",
+                "page": "Centre of Unified Democrats"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "Union for the Presidential Majority (57)",
+                "UDJ–PDD (7)"
+              ]
+            }
+          },
+          "last_election1": {
+            "text": "February 2018",
+            "links": [
+              {
+                "text": "February 2018",
+                "type": "internal",
+                "page": "2018 Djiboutian parliamentary election"
+              }
+            ]
+          },
+          "meeting_place": {
+            "text": "Assemblee Nationale, Djibouti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Djibouti"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.assemblee-nationale.dj"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Overview",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "It consists of 65 members – 30 Somali (21 Issa) and 30 Afar – elected to serve five-year terms in multi-seat (4 to 37 each) constituencies.",
+              "links": [
+                {
+                  "text": "Somali",
+                  "type": "internal",
+                  "page": "Somali people"
+                },
+                {
+                  "text": "Issa",
+                  "type": "internal",
+                  "page": "Issa (clan)"
+                },
+                {
+                  "text": "Afar",
+                  "type": "internal",
+                  "page": "Afar people"
+                }
+              ]
+            },
+            {
+              "text": "The first free multi-party parliamentary election since independence (1977) was held in 2003, with the ruling coalition, led by the People's Rally for Progress (RPP), receiving 62.7% of the vote.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Rally for Progress"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Idriss Arnaoud Ali was President of the National Assembly from 2003 until his death in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Idriss Arnaoud Ali"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded by Mohamed Ali Houmed.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Ali Houmed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "For its entire existence, the National Assembly has been dominated by the Popular Rally for Progress, which is presently the senior partner in the Union for a Presidential Majority coalition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Popular Rally for Progress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Union for a Presidential Majority"
+                }
+              ]
+            },
+            {
+              "text": "From 1981 to 1992, the RPP was the sole legal party."
+            },
+            {
+              "text": "Even after opposition parties were legalized in 1992, the RPP won every seat in the legislature."
+            },
+            {
+              "text": "From 1997 onward, it fought elections as part of a coalition, known since 2003 as the UMP, which continued to sweep every seat."
+            },
+            {
+              "text": "Opposition parties did not manage to enter the legislature until 2013."
+            },
+            {
+              "text": "In the 2018 Djiboutian parliamentary election, which was boycotted by the main opposition parties, the Union for the Presidential Majority won a heavy majority.",
+              "links": [
+                {
+                  "text": "2018 Djiboutian parliamentary election",
+                  "type": "internal",
+                  "page": "2018 Djiboutian parliamentary election"
+                }
+              ]
+            },
+            {
+              "text": "The Djiboutian political system concentrates most power in the president's hands, and there is little opposition to executive decisions."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of 2018, a quota mandates that at least 25% of the legislators be women."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2018-02-26",
+          "title": "Djibouti ruling party claims landslide parliamentary win",
+          "url": "https://www.africanews.com/2018/02/26/djibouti-ruling-party-claims-landslide-parliamentary-win/",
+          "url-status": "live",
+          "access-date": "2021-01-15",
+          "website": "Africanews",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "IPU PARLINE database: DJIBOUTI (Assemblée nationale), Last elections",
+          "url": "http://archive.ipu.org/parline-e/reports/2089_E.htm",
+          "url-status": "live",
+          "access-date": "2021-01-15",
+          "website": "Inter-Parliamentary Union",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2018-01-11",
+          "title": "Présidence de la République de Djibouti",
+          "url": "https://www.presidence.dj/texte.php?ID=219&ID2=2018-01-11&ID3=Loi&ID4=1&ID5=2018-01-30&ID6=spelec",
+          "url-status": "live",
+          "access-date": "2021-01-15",
+          "website": "République de Djibouti",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Presidents",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "Name": {
+              "text": "Ahmed Dini Ahmed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ahmed Dini Ahmed"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "13 May 1977"
+            },
+            "Left office": {
+              "text": "13 July 1977"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "Saad Warsama Dirie",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saad Warsama Dirie"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1977",
+              "number": 1977
+            },
+            "Left office": {
+              "text": "1979",
+              "number": 1979
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "Abdoulkader Waberi Askar",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdoulkader Waberi Askar"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1979",
+              "number": 1979
+            },
+            "Left office": {
+              "text": "1993",
+              "number": 1993
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "Said Ibrahim Badoul",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Said Ibrahim Badoul"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1993",
+              "number": 1993
+            },
+            "Left office": {
+              "text": "2003",
+              "number": 2003
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "Idriss Arnaoud Ali",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Idriss Arnaoud Ali"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "21 January 2003"
+            },
+            "Left office": {
+              "text": "12 February 2015"
+            },
+            "Notes": {
+              "text": ""
+            }
+          },
+          {
+            "Name": {
+              "text": "Mohamed Ali Houmed",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mohamed Ali Houmed"
+                }
+              ]
+            },
+            "Took office": {
+              "text": "1 March 2015"
+            },
+            "Left office": {
+              "text": "Incumbent"
+            },
+            "Notes": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "http://www.assemblee-nationale.dj/index.php?option=com_content&view=article&id=135&Itemid=59",
+          "archive-url": "https://web.archive.org/web/20160419212616/http://www.assemblee-nationale.dj/index.php?option=com_content&view=article&id=135&Itemid=59",
+          "url-status": "dead",
+          "archive-date": "19 April 2016",
+          "title": "Les Anciens Presidents",
+          "date": "19 April 2016",
+          "publisher": "National Assembly",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Building",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "The building of the national assembly was built and partially financed by the government of Iran and completed in November 23, 2014."
+            },
+            {
+              "text": "The debt for this project has still not been paid to this date."
+            },
+            {
+              "text": "Iranian parliament speaker Ali Larijani attended a ceremony to inaugurate this new building and to hand it over."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "http://www.assemblee-nationale.dj"
+          ],
+          "template": "official website"
+        },
+        {
+          "template": "djibouti topics"
+        },
+        {
+          "template": "africa legislatures"
+        },
+        {
+          "template": "national unicameral legislatures"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "poli-stub"
+        }
+      ]
+    }
+  ]
+}
