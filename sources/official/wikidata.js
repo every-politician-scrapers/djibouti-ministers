@@ -15,14 +15,16 @@ module.exports = function () {
 
           # Who currently holds those positions
           ?item wdt:P31 wd:Q5 ; p:P39 ?held .
-          ?held ps:P39 ?positionItem ; pq:P580 ?start .
+          ?held ps:P39 ?positionItem .
           FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
+          OPTIONAL { ?held pq:P580 ?start }
           OPTIONAL { ?held pq:P582 ?end }
+          OPTIONAL { ?held pq:P5054 ?cabinet }
 
-          FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
-          FILTER (?start < NOW())
+          FILTER(BOUND(?start) || BOUND(?cabinet))
+          FILTER (!BOUND(?end) || ?start < NOW())
           FILTER (!BOUND(?end) || ?end > NOW())
-          FILTER NOT EXISTS { ?item wdt:P570 [] }
+          FILTER (!BOUND(?cabinet) || (?cabinet = wd:${meta.cabinet.id}))
 
           OPTIONAL {
             ?held prov:wasDerivedFrom ?ref .
@@ -33,7 +35,8 @@ module.exports = function () {
           }
 
           OPTIONAL { ?item rdfs:label ?wdLabel FILTER(LANG(?wdLabel) = "${meta.source.lang.code}") }
-          BIND(COALESCE(?sourceName, ?wdLabel) AS ?name)
+          OPTIONAL { ?item rdfs:label ?enLabel FILTER(LANG(?enLabel) = "en") }
+          BIND(COALESCE(?sourceName, ?wdLabel, ?enLabel) AS ?name)
 
           OPTIONAL { ?positionItem wdt:P1705  ?nativeLabel   FILTER(LANG(?nativeLabel)   = "${meta.source.lang.code}") }
           OPTIONAL { ?positionItem rdfs:label ?positionLabel FILTER(LANG(?positionLabel) = "${meta.source.lang.code}") }

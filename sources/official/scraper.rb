@@ -11,7 +11,7 @@ class MemberList
     end
 
     def position
-      position_node.text.tidy.gsub(/^\d+.? /, '')
+      position_node.text.tidy.gsub(/^\d+.? /, '').gsub(/, *$/, '').tidy
     end
 
     private
