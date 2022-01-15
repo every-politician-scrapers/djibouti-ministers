@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+        "name": "Djibouti",
+        "id": "Q977"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+        "id": "Q17629209",
+        "start": "2013-03-31",
+        "parent": "Q110572587"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://www.presidence.dj/sousmenu.php?ID=182",
+        "title": "Présidence de la République de Djibouti | Le Gouvernement | Composition",
         "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+            "code": "fr",
+            "wikidata": "Q150"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/djibouti-ministers"
 }
