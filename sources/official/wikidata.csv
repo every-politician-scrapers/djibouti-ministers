@@ -1,1 +1,4 @@
-wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
+wdid,name,wdLabel,source,sourceDate,pid,position,start,psid
+Q10522744,Abdoulkader Kamil Mohamed,Abdoulkader Kamil Mohamed,,,Q30100591,Premier ministre de Djibouti,2013-04-01,Q10522744-dfd011c4-47d3-ef4e-8ecd-46775934c3da
+Q57390,Ismail Omar Guelleh,Ismail Omar Guelleh,,,Q19058485,président de Djibouti,1999-05-08,Q57390-9fb96d92-42ca-9e7b-c724-9511ea1708e4
+Q58256,Mahamoud Ali Youssouf,Mahamoud Ali Youssouf,,,Q19901417,,2005-05-22,Q58256-BA1B4780-D05B-42EF-A327-51A29DA5793E
