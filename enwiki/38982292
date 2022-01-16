@@ -1,0 +1,153 @@
+{
+  "title": "Abdoulkader Kamil Mohamed",
+  "pageID": 38982292,
+  "categories": [
+    "1951 births",
+    "Living people",
+    "Prime Ministers of Djibouti",
+    "University of Limoges alumni",
+    "People from Obock Region"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Abdoulkader Kamil Mohamed (Qabdulkadir Kamil Macammad, عبد القادر كامل محمد; born 1 July 1951 in Souali, Djibouti) is a Djiboutian politician who has been Prime Minister of Djibouti since 2013.",
+              "links": [
+                {
+                  "text": "Souali",
+                  "type": "internal",
+                  "page": "Obock Region"
+                },
+                {
+                  "text": "Djiboutian",
+                  "type": "internal",
+                  "page": "Djibouti"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prime Minister of Djibouti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Abdoulkader Kamil Mohamed"
+                ]
+              }
+            },
+            {
+              "text": "A longtime member of the ruling People's Rally for Progress, he previously served as Minister of Agriculture from 2005 to 2011 and as Minister of Defense from 2011 to 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "People's Rally for Progress"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Agriculture"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Prime Minister of Djibouti (2013-present)",
+          "template": "short description"
+        },
+        {
+          "year": "1951",
+          "month": "07",
+          "day": "01",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Abdoulkader Kamil Mohamed عبد القادر كميل محمد"
+          },
+          "image": {
+            "text": "Abdoulkader Kamil Mohamed.jpg"
+          },
+          "office": {
+            "text": "Prime Minister of Djibouti",
+            "links": [
+              {
+                "text": "Prime Minister of Djibouti",
+                "type": "internal",
+                "page": "List of prime ministers of Djibouti"
+              }
+            ]
+          },
+          "president": {
+            "text": "Ismaïl Omar Guelleh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ismaïl Omar Guelleh"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 April 2013"
+          },
+          "predecessor": {
+            "text": "Dileita Mohamed Dileita",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dileita Mohamed Dileita"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 1, 1951"
+          },
+          "birth_place": {
+            "text": "Souali, French Somaliland (now Djibouti)",
+            "links": [
+              {
+                "text": "Souali",
+                "type": "internal",
+                "page": "Obock Region"
+              },
+              {
+                "type": "internal",
+                "page": "French Somaliland"
+              },
+              {
+                "type": "internal",
+                "page": "Djibouti"
+              }
+            ]
+          },
+          "party": {
+            "text": "People's Rally for Progress",
+            "links": [
+              {
+                "type": "internal",
+                "page": "People's Rally for Progress"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Limoges",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Limoges"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
