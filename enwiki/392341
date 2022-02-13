@@ -98,6 +98,15 @@
                   "page": "human rights"
                 }
               ]
+            },
+            {
+              "text": "He is, at the international level, a close ally of France.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "France"
+                }
+              ]
             }
           ]
         },
