@@ -336,6 +336,12 @@
             },
             "Nom": {
               "text": "Ilyas Moussa Dawaleh",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ilyas Moussa Dawaleh"
+                }
+              ],
               "formatting": {
                 "bold": [
                   "Ilyas Moussa Dawaleh"
