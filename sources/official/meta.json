@@ -8,13 +8,16 @@
         "start": "2013-03-31",
         "parent": "Q110572587"
     },
-    "source": {
-        "url":   "https://www.presidence.dj/composition",
-        "title": "Composition du gouvernement",
-        "lang":  {
-            "code": "fr",
-            "wikidata": "Q150"
+    "reference": {
+        "P854":   "https://www.presidence.dj/composition",
+        "P1476": {
+            "text": "Composition du gouvernement",
+            "language": "fr"
         }
     },
-    "agent": "every-politican-scrapers/djibouti-ministers"
+    "current_only": "true",
+    "lang": "fr",
+    "person_description": {
+        "en": "politician in Djibouti"
+    }
 }
