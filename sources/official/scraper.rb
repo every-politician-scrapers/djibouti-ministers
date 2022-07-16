@@ -7,11 +7,11 @@ require 'pry'
 class MemberList
   class Member
     def name
-      position_node.xpath('following-sibling::text()').first.text.tidy.delete_prefix(', ')
+      noko.css('.card-title').text.tidy
     end
 
     def position
-      position_node.text.tidy.gsub(/^\d+.? /, '').gsub(/, *$/, '').tidy
+      noko.css('.card-text').text.tidy
     end
 
     private
@@ -23,7 +23,7 @@ class MemberList
 
   class Members
     def member_container
-      noko.xpath('//table//tr//p[.//strong]')
+      noko.css('.card')
     end
   end
 end
