@@ -334,6 +334,9 @@
         {
           "title": "Chiefs of State and Cabinet Members of Foreign Governments",
           "url": "https://www.cia.gov/library/publications/world-leaders-1/DJ.html",
+          "archive-url": "https://web.archive.org/web/20131004213122/https://www.cia.gov/library/publications/world-leaders-1/DJ.html",
+          "url-status": "dead",
+          "archive-date": "October 4, 2013",
           "publisher": "CIA",
           "accessdate": "2 October 2013",
           "template": "citation",
@@ -373,7 +376,7 @@
               {
                 "text": "Chiefs of State and Cabinet Members of Foreign Governments",
                 "type": "external",
-                "site": "https://www.cia.gov/library/publications/world-leaders-1/DJ.html"
+                "site": "https://web.archive.org/web/20131004213122/https://www.cia.gov/library/publications/world-leaders-1/DJ.html"
               }
             ]
           }

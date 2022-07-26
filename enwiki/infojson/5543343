@@ -1,0 +1,21 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister-Delegate for International Cooperation of Djibouti"
+    },
+    "P580": "2001-07-04",
+    "P582": "2005-05-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Djibouti"
+      ],
+      "stated_as": "Foreign Minister of Djibouti"
+    },
+    "P580": "2005-05-22"
+  }
+]
